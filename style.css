@@ -735,10 +735,16 @@ h4 {
     margin-top: 24px;
 }
 
+.white {
+    color: #FFFFFF!important;
+}
+
 .black {
     color: black!important;
 }
-
+.icon-md{
+    color: #000000!important;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
