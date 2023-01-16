@@ -1056,3 +1056,8 @@ h4 {
     font-weight: bold;
     font-style: italic;
 }
+.social {
+   display: flex;
+   justify-content: space-around;
+   
+}
