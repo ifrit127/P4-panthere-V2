@@ -286,6 +286,9 @@ a:hover {
 #bloc-1-hero h1 {
     font-size: 32px;
 }
+.bloc-h2{
+    max-width: 62rem;
+    margin: auto;}
 
 .navbar {
     margin-bottom: 0;
